@@ -18,7 +18,7 @@ email: dejp3@cam.ac.uk
 description: >- # This site will provide training material for the Fitzwilliam Museum's
     workshops on photogrammetry which are funded via the Industry Pump Priming Fund from
     Cambridge University.
-baseurl: "/pump-priming" # the subpath of your site, e.g. /blog
+baseurl: "/festivalofarchaeology" # the subpath of your site, e.g. /blog
 url: "https://fitzwilliammuseum.github.io"
 twitter_username: dejpett
 github_username:  portableant
