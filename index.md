@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to make 3D scans of Fitzwilliam Objects
+title: How to make 3D scans
 author: Daniel Pett
 published: 2018-11-29
 updated: 2018-11-29
@@ -10,7 +10,7 @@ updated: 2018-11-29
 
 Hello and welcome to this 2 hour workshop on how to make a 3D scan of one of the Fitzwilliam Museum's objects. By the end of this workshop, you should be equipped to make a scan like this one of the Terme Boxer's head. We will be covering the basics of a technique called photogrammetry.
 
-This workshop is part of our Industry Pump Priming award: 
+This workshop is part of our Industry Pump Priming award:
 
 Do (not) Touch: Using 3-D modelling to explore tactile interaction with museum collections and how this can affect the visitor perception and reaction to the museum’s ‘Do Not Touch’ policy
 
