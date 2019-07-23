@@ -3,10 +3,8 @@ layout: post
 title: What is photogrammetry?
 permalink: /tutorials/what-is-photogrammetry/
 weight: "a"
-author: Daniel Pett
-published: 2018-10-16
-updated: 2018-10-22
 ---
+
 You're here because you want to learn about making 3D models and today we are using the very simple technique of photogrammetry. 
 
 Wikipedia defines [photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) as: 
