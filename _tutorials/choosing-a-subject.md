@@ -31,5 +31,5 @@ You should also be aware of museum regulations about photography and how you may
 
 ## Choose an sculpture in the gallery
 
-We will now walk round the room and find a sculpture that has lots or room around it, good lighting and most importantly, you are interested in. Look for one with lots of texture and interesting features, but for this learning process, avoid ones with lots of intricate holes in it or small features. *Busts* are excellent subjects.
+We will now walk round the rooms and find a sculpture that has lots or room around it, good lighting and most importantly, you are interested in. Look for one with lots of texture and interesting features, but for this learning process, avoid ones with lots of intricate holes in it or small features. *Busts* are excellent subjects.
 
