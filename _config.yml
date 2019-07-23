@@ -13,22 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fitzwilliam Museum Photogrammetry workshop
-email: dejp3@cam.ac.uk
-description: >- # This site will provide training material for the Fitzwilliam Museum's
-    workshops on photogrammetry which are funded via the Industry Pump Priming Fund from
-    Cambridge University.
+title: Festival of Archaeology 3D Modelling Workshop
+email: JWexler@britishmuseum.org
+description: >- # This site will provide training material for the Festival of Archaeology's
+    workshop on 3D modelling, supported by the Portable Antiquities Scheme (PAS) and the Council for British Archaeology.
 baseurl: "/festivalofarchaeology" # the subpath of your site, e.g. /blog
 url: "https://fitzwilliammuseum.github.io"
-twitter_username: dejpett
-github_username:  portableant
-logo: https://avatars3.githubusercontent.com/u/38219404?s=200&v=4
-ucam_logo: images/ucam.png
-instructor: Daniel Pett
-conservator: Helena Rodwell
-research: Joanne Vine
+twitter_username: JWexlerBM
+github_username:  JWexlerBM
+logo: images/FestofArchLogo.jpg
+FestArch_logo: images/FestofArchLogo.jpg
+instructor: Jennifer Wexler
+coordinator: Ayla Karaman
+facilitator: Joanne Kirton
 google_analytics: UA-298202-20
-workshop_date: 2018-11-29
+workshop_date: 2019-07-24
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
