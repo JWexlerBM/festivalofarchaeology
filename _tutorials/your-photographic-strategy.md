@@ -5,7 +5,7 @@ permalink: /tutorials/your-photographic-strategy/
 weight: "d"
 author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-07-23
+updated: 2019-07-23
 ---
 
 We now need to think about how we will take photographs of the object that you have chosen. Factors we need to consider are:
