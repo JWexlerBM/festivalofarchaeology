@@ -5,7 +5,7 @@ permalink: /tutorials/first-steps-in-photoscan/
 weight: "f"
 author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-07-23
+updated: 2019-07-23
 ---
 
 I am now assuming you have taken your photographs and have them on SD card and are ready to transfer them onto your computer for processing. 
