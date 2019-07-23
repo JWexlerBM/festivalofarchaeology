@@ -4,11 +4,11 @@ title: Further reading
 permalink: /tutorials/further-reading/
 weight: "m"
 published: 2018-10-16
-author: Daniel Pett
-updated: 2018-10-22
+author: Jennifer Wexler
+updated: 2019-07-23
 ---
 
-Thank you for coming to my workshop and interacting with University of Cambridge Museums. I hope you will now go out and create great 3D. This is a very basic tutorial session and there are far more things to learn. 
+Thank you for coming to my workshop and getting involved with the Festival of Archaeology. I hope you will now go out and create great 3D. This is a very basic tutorial session and there are far more things to learn. 
 
 If you would like to learn more, I suggest the following reading:
 
@@ -22,6 +22,8 @@ If you would like to learn more, I suggest the following reading:
 ## Tutorials
 
 * Abby Crawford, [How to set up a successful photogrammetry project](https://blog.sketchfab.com/how-to-set-up-a-successful-photogrammetry-project/)
+* Beau Kromberg [Using 3D Scans for Outreach and Education at Wayne State](https://sketchfab.com/blogs/community/using-3d-scans-for-outreach-and-education-at-wayne-state/)
+* Samantha Thi Porter, a digital curation specialist at the University of Minnesota, [video series explaining basic workflow with Agisoft Photoscan (now MetaShape)](http://www.stporter.com/tutorials/)
 * Az Balabanian [Getting started with Photogrammetry — with an iPhone camera Capturing the world in a future-proof data form](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72)
 * [MicroPasts guides](https://micropasts.org/blog/learning)
 * [Guide för publicering av 3D-modeller](https://www.raa.se/museer/information-och-kunskap/publicering-av-3d-modeller/) 
@@ -37,4 +39,4 @@ if you would like to add to this list, please fork my repo and then issue a pull
 
 ## Raw data to practise with
 
-I have a large folder on [Google Drive](https://goo.gl/CS5aoN) with hundreds of GB of data for various models. You could use this for practise. 
+Dan Pett (Head of Digital, Fitzwilliam Museum Cambridge) has a large folder on [Google Drive](https://goo.gl/CS5aoN) with hundreds of GB of data for various models. You could use this for practise. 
