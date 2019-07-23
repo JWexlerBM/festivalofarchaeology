@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First steps in Agisoft's photoscan
+title: First steps in Agisoft's metashape
 permalink: /tutorials/first-steps-in-photoscan/
 weight: "f"
 author: Jennifer Wexler
@@ -12,7 +12,7 @@ I am now assuming you have taken your photographs and have them on SD card and a
 
 We are going to use one of the industry's best packages for photogrammetry, which does not need a high end graphics card. This package is called Metashape and is made by Agisoft. You can download the [standard version](http://www.agisoft.com/downloads/installer/) and apply for a **[demo key](http://www.agisoft.com/downloads/installer/#)**. 
 
-Open the Photoscan package and you will see this interface appear. Sort of scary? It is pretty simple to use, just follow the instructions over the next few pages. 
+Open the Metashape package and you will see this interface appear. Sort of scary? It is pretty simple to use, just follow the instructions over the next few pages. 
 
 ![The photoscan window]{{ site.baseurl }}(/images/photoscan.jpg "Photoscan interface window")
 
