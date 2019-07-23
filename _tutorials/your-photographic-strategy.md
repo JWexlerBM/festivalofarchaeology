@@ -3,16 +3,16 @@ layout: post
 title: Your photographic strategy
 permalink: /tutorials/your-photographic-strategy/
 weight: "d"
-author: Daniel Pett
+author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-10-22
+updated: 2018-07-23
 ---
 
 We now need to think about how we will take photographs of the object that you have chosen. Factors we need to consider are:
 
 ## Photography conditions:
 
-In an ideal world, your object would be still and lit well. You're in a museum, guerilla scanning (i.e. not fully kitted up and without permits and a gallery clear of visitors), so it is very likely you may have sub-optimal conditions. Today, the weather forecast is overcast, which should make the gallery's natural light work quite well. 
+In an ideal world, your object would be still and lit well. You're in a museum, guerilla scanning (i.e. not fully kitted up and without permits and a gallery clear of visitors), so it is very likely you may have sub-optimal conditions. 
 
 ## Camera usage
 
