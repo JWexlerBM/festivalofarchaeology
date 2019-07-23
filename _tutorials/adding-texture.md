@@ -3,12 +3,12 @@ layout: post
 title: Adding texture
 permalink: /tutorials/adding-texture/
 weight: "k"
-author: Daniel Pett
+author: Jennifer_wexler
 published: 2018-10-16
-updated: 2018-10-17
+updated: 2019-07-23
 ---
 
-You now want to make your model look nice and have the true(ish) colour texture of the real thing. Generally in this museum, everything is white, off-white or yellowy-white. So don't expect wonders!
+You now want to make your model look nice and have the true(ish) colour texture of the real thing.
 
 Follow these steps to create your texture:
 
