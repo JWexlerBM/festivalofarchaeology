@@ -13,8 +13,17 @@ In this session, I would like you to remain on automatic settings and retain the
 
 Now remember the steps:
 
-* 3 circuits - high, low, middle
-* 10/15 degree increments as you step around the object (make sure you do not have risk of bumping into things)
-* 60% overlap in your images
+* 3 circuits - high, low, middle:
+
+![Photogrammetry increments](/images/3D_cameras.jpg)
+
+* 10/15 degree increments as you step around the object (make sure you do not have risk of bumping into things):
+
+![Photogrammetry increments](/images/Increments.jpeg)
+
+* 60% overlap in your images:
+
+![Photogrammetry overlap](/images/Photogrammetry%20overlap.jpeg)
+
 
 Away you go!
