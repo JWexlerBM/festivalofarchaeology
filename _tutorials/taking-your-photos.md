@@ -5,7 +5,7 @@ permalink: /tutorials/taking-your-photos/
 weight: "e"
 author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-07-23
+updated: 2019-07-23
 ---
 ![The fabulous Hercules]({{ site.baseurl }}/images/discob.jpg "The Discobolus in the BM labs")
 We are now ready to begin our photography session. You have learnt the basics of how to take the photographs.
