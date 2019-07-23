@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to make 3D scans
-author: Daniel Pett
+author: Jennifer Wexler
 published: 2018-11-29
 updated: 2018-07-23
 ---
