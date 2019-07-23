@@ -3,9 +3,9 @@ layout: post
 title: Uploading to Sketchfab
 permalink: /tutorials/uploading-to-sketchfab/
 weight: "l"
-author: Daniel Pett
+author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-10-22
+updated: 2019-07-23
 ---
 
 Now that you have made a 3D model, you no doubt want to show the world. This can be done easily by using the Sketchfab platform. To do this register on their site and then we're ready to go.
