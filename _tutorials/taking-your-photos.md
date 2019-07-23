@@ -15,7 +15,7 @@ Now remember the steps:
 
 * 3 circuits - high, low, middle:
 
-![Photogrammetry increments](/images/3D_cameras.jpg)
+![Photogrammetry camera positions]({{ site.baseurl }}/images/3D_cameras.jpg "3D Camera Positions") 
 
 * 10/15 degree increments as you step around the object (make sure you do not have risk of bumping into things):
 
