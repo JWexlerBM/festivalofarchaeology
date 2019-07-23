@@ -20,7 +20,7 @@ In this short tutorial, we are going to use a very popular technique called 'Str
 
 ## So what can you create
 
-I first came across SfM whilst working on the MicroPasts crowdsourcing project, where we harnessed the power of the crowd to remove backgrounds from photographs to enable more rapid creation of 3D models. We are going to skip the background removal today, as hopefully your photographs will allow you to create a model with little difficulty. The 3D models below all came out of crowdsourcing and give you an idea of what you could do. 
+I first came across SfM whilst working on the [MicroPasts crowdsourcing project](https://crowdsourced.micropasts.org/), where we harnessed the power of the crowd to remove backgrounds from photographs to enable more rapid creation of 3D models. We are going to skip the background removal today, as hopefully your photographs will allow you to create a model with little difficulty. The 3D models below all came out of crowdsourcing and give you an idea of what you could do. 
 
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://sketchfab.com/playlists/embed?collection=bb3cff6dfa4f40a588794dd02a29e12f" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
