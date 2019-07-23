@@ -5,7 +5,7 @@ permalink: /tutorials/aligning-your-photos/
 weight: "g"
 author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-07-23
+updated: 2019-07-23
 ---
 
 Now you have got Metashape open, you are ready to go. Your first step is to assemble your overlapping images into a sparse point cloud - matching points that will appear in a 3 dimensional grid on XYZ planes. 
