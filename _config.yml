@@ -18,7 +18,7 @@ email: JWexler@britishmuseum.org
 description: >- # This site will provide training material for the Festival of Archaeology's
     workshop on 3D modelling, supported by the Portable Antiquities Scheme (PAS) and the Council for British Archaeology.
 baseurl: "/festivalofarchaeology" # the subpath of your site, e.g. /blog
-url: "https://fitzwilliammuseum.github.io"
+url: "https://jwexlerbm.github.io"
 twitter_username: JWexlerBM
 github_username:  JWexlerBM
 logo: images/FestofArchLogo.jpg
