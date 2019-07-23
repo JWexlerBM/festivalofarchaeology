@@ -3,16 +3,16 @@ layout: post
 title: Aligning your photos
 permalink: /tutorials/aligning-your-photos/
 weight: "g"
-author: Daniel Pett
+author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-10-19
+updated: 2018-07-23
 ---
 
-Now you have got Photoscan open, you are ready to go. Your first step is to assemble your overlapping images into a sparse point cloud - matching points that will appear in a 3 dimensional grid on XYZ planes. 
+Now you have got Metashape open, you are ready to go. Your first step is to assemble your overlapping images into a sparse point cloud - matching points that will appear in a 3 dimensional grid on XYZ planes. 
 
 This is very easy. Follow these steps:
 
-1. Download all your images into a folder on your computer (I have an SD card reader and various cables)
+1. Download all your images into a folder on your computer 
 2. Now go to Photoscan and click *Workflow* on the top menu
 3. Choose Add Folder
 4. Navigate to the folder you wish to use and click open
