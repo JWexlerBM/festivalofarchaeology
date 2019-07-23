@@ -6,7 +6,7 @@ published: 2018-11-29
 updated: 2018-07-23
 ---
 
-# How to make 3D Modles for Museums & Archaeology
+# How to make 3D Models for Museums & Archaeology
 
 Hello and welcome to this workshop on how to make 3D models of [British Museum](https://www.britishmuseum.org/) and [Portable Antiquities Scheme (PAS)](https://finds.org.uk/) objects. By the end of this workshop, you should be equipped to make a scan like this one of the Terme Boxer's head. We will be covering the basics of a technique called photogrammetry.
 
