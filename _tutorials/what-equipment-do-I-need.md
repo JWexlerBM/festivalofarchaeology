@@ -3,9 +3,9 @@ layout: post
 title: What equipment do I need?
 permalink: /tutorials/what-equipment-do-i-need/
 weight: "b"
-author: Daniel Pett
+author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-10-22
+updated: 2019-07-23
 ---
 ![The fabulous Hercules]({{ site.baseurl }}/images/festival.jpg "Festival of Ideas MoCA banner")
 
