@@ -5,7 +5,7 @@ permalink: /tutorials/cleaning-your-cloud/
 weight: "i"
 author: Jennifer Wexler
 published: 2018-10-16
-updated: 2018-07-23
+updated: 2019-07-23
 ---
 
 So now you might have to do some cleaning to remove background dense cloud artefacts. In the image below, you can see some extra whiteness around the edge of the mummy board. This needs to go!
