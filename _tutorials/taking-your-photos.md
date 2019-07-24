@@ -23,6 +23,6 @@ Now remember the steps:
 
 * 60% overlap in your images:
 
-![Photogrammetry overlap]]({{ site.baseurl }}/images/photogrammetry_overlap.jpeg "3D overlap") 
+![Photogrammetry overlap]({{ site.baseurl }}/images/photogrammetry_overlap.jpeg "3D overlap")  
 
 Away you go!
