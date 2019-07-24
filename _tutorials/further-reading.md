@@ -27,6 +27,7 @@ If you would like to learn more, I suggest the following reading:
 * Az Balabanian [Getting started with Photogrammetry — with an iPhone camera Capturing the world in a future-proof data form](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72)
 * [MicroPasts guides](https://micropasts.org/blog/learning)
 * [Guide för publicering av 3D-modeller](https://www.raa.se/museer/information-och-kunskap/publicering-av-3d-modeller/) 
+* [Historic England Guide to Photogrammetric Applications for Cultural Heritage](https://historicengland.org.uk/images-books/publications/photogrammetric-applications-for-cultural-heritage/)
 
 ## Software
 * [Agisoft Photoscan](http://www.agisoft.com/)
