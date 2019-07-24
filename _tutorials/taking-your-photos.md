@@ -19,11 +19,10 @@ Now remember the steps:
 
 * 10/15 degree increments as you step around the object (make sure you do not have risk of bumping into things):
 
-![Photogrammetry increments](/images/Increments.jpeg)
+![Photogrammetry increments]({{ site.baseurl }}/images/Increments.jpeg "3D Increments") 
 
 * 60% overlap in your images:
 
-![Photogrammetry overlap](/images/Photogrammetry%20overlap.jpeg)
-
+![Photogrammetry overlap]]({{ site.baseurl }}/images/Photogrammetry%20overlap.jpeg "3D Photo Overlap") 
 
 Away you go!
