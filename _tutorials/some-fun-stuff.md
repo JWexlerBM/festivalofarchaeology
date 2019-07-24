@@ -18,7 +18,7 @@ How would you edit and build content around your 3D model?
 
 ## Rotating your model on Sketchfab
 
-Simply add *?autospin=.3* to the end of your models url, for example: https://sketchfab.com/3d-models/palstave-hoard-partially-excavated-ca1ec636d82e46bb93391034760276a9?autospin=.3  
+Simply add *?autospin=.3* to the end of your models url, for example: [https://sketchfab.com/3d-models/palstave-hoard-partially-excavated-ca1ec636d82e46bb93391034760276a9?autospin=.3](https://sketchfab.com/3d-models/palstave-hoard-partially-excavated-ca1ec636d82e46bb93391034760276a9?autospin=.3)  
 Change the number to adjust the speed. This is handy if you want to make a screen recording of your model rotating - handy for making gifs (though Sketchfab has a great tool for that too - see next step!). 
 
 ## Making Gifs
