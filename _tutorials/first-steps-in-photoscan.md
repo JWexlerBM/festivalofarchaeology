@@ -14,7 +14,7 @@ We are going to use one of the industry's best packages for photogrammetry, whic
 
 Open the Metashape package and you will see this interface appear. Sort of scary? It is pretty simple to use, just follow the instructions over the next few pages. 
 
-![The photoscan window](https://github.com/JWexlerBM/festivalofarchaeology/blob/master/images/photoscan.jpg)
+![The photoscan window]({{ site.baseurl }}/images/photoscan.jpg "Photoscan interface window")
 
 We are going to do several steps now:
 
