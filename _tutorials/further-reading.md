@@ -5,7 +5,7 @@ permalink: /tutorials/further-reading/
 weight: "m"
 published: 2018-10-16
 author: Jennifer Wexler
-updated: 2019-07-23
+updated: 2019-08-05
 ---
 
 Thank you for coming to my workshop and getting involved with the Festival of Archaeology. I hope you will now go out and create great 3D. This is a very basic tutorial session and there are far more things to learn. 
@@ -35,6 +35,8 @@ If you would like to learn more, I suggest the following reading:
 * [Visual SFM](http://ccwu.me/vsfm/)
 * [Wikipedia list](https://en.wikipedia.org/wiki/Comparison_of_photogrammetry_software) of software comparisons
 * [Meshroom](https://alicevision.github.io/)
+
+* [Here's a roundup of the Best Photogrammetry Software for 2019 (including some free options!)](https://all3dp.com/1/best-photogrammetry-software/)
 
 if you would like to add to this list, please fork my repo and then issue a pull request for it to be included. I will then add you to contributing authors. 
 
