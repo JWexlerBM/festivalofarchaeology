@@ -35,8 +35,7 @@ If you would like to learn more, I suggest the following reading:
 * [Visual SFM](http://ccwu.me/vsfm/)
 * [Wikipedia list](https://en.wikipedia.org/wiki/Comparison_of_photogrammetry_software) of software comparisons
 * [Meshroom](https://alicevision.github.io/)
-
-* [Here's a roundup of the Best Photogrammetry Software for 2019 (including some free options!)](https://all3dp.com/1/best-photogrammetry-software/)
+* [Roundup of the Best Photogrammetry Software for 2019 (including some free options!)](https://all3dp.com/1/best-photogrammetry-software/)
 
 ## Raw data to practise with
 
