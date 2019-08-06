@@ -11,7 +11,7 @@ updated: 2019-08-06
 Here are the 3D models produced from our training session on the 24th July 2019!
 The collection of 3D Models can be found [here](https://sketchfab.com/micropasts/collections/festival-of-archaeology-3d-training)
 
-##Spinario
+## Spinario
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/1e2aa0e8047b4cdfa9a30d8fa4fcf7ec/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
