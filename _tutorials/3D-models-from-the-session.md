@@ -23,7 +23,7 @@ The collection of 3D Models can be found [here](https://sketchfab.com/micropasts
 </div>
 
 
-##Medieval Tile from the London Thames Foreshore
+## Medieval Tile from the London Thames Foreshore
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/f9f280a326484f04a1c5b662922b6cc2/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -34,7 +34,7 @@ The collection of 3D Models can be found [here](https://sketchfab.com/micropasts
 </p>
 </div>
 
-##Alexander the Great
+## Alexander the Great
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/1750a0cb994c4ff28f6f0a1981485dec/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -45,7 +45,7 @@ The collection of 3D Models can be found [here](https://sketchfab.com/micropasts
 </p>
 </div>
 
-##Greek Column
+## Greek Column
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/5e4605c458e740f9b47622ce920dddec/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -56,7 +56,7 @@ The collection of 3D Models can be found [here](https://sketchfab.com/micropasts
 </p>
 </div>
 
-##The Dog with Three Names
+## The Dog with Three Names
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/18cb9bfeb9264e5597e2763731ba77f4/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
